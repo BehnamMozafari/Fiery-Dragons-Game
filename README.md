@@ -51,6 +51,8 @@ The Jar file was tested on an M1 mac
 
 This project is licensed under the MIT License.
 
-## Images
+## Credit
+
+Made by: Behnam Mozafari, Shivansh Chaddha, Alvis Tong
 
 all images were made by Alvis Tong with resources from https://boardgamegeek.com/boardgame/23658/fiery-dragons 
