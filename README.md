@@ -1,4 +1,4 @@
-# Fiery Dragons Boardgame
+# Fiery Dragons Board Game
 
 Welcome to the repository for our Java-based game. Below you will find an outline of how the project
 is organised and where specific files are located.
