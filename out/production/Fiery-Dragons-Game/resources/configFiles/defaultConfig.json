@@ -1,0 +1,7 @@
+
+{
+  "chitCards": ["Salamander", "BabyDragon", "Bat","Spider" , "PirateDragon", "SwapCard"],
+  "chitCardMoves": {"Salamander": [1, 2, 3], "BabyDragon": [1, 2, 3], "Bat": [1, 2, 3], "Spider": [1, 2, 3], "PirateDragon": [-1, -1, -2, -2], "SwapCard":  [0, 0]},
+  "volcanoCards": ["Spider_Bat_Salamander", "Spider_Salamander_BabyDragon" ,"Bat_BabyDragon_Salamander" ,"BabyDragon_Bat_Spider" ,"Salamander_Spider_Bat" ,"Salamander_BabyDragon_Spider" ,"Bat_Spider_BabyDragon" ,"BabyDragon_Salamander_Bat"],
+  "caves": ["BabyDragonCave", "BatCave", "SalamanderCave", "SpiderCave"]
+}

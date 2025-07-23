@@ -1,0 +1,48 @@
+{
+  "chitCards": [
+    "PirateDragon_-1",
+    "BabyDragon_2",
+    "PirateDragon_-1",
+    "Spider_1",
+    "BabyDragon_3",
+    "Salamander_1",
+    "Salamander_2",
+    "PirateDragon_-2",
+    "Spider_2",
+    "Bat_3",
+    "BabyDragon_1",
+    "PirateDragon_-2",
+    "Spider_3",
+    "Bat_2",
+    "Salamander_3",
+    "SwapCard_0",
+    "SwapCard_0",
+    "Bat_1"
+  ],
+  "volcanoCards": [
+    "Spider_Salamander_BabyDragon_Bat_BabyDragonCave_2_4",
+    "Bat_BabyDragon_Salamander_Spider_-1_4",
+    "BabyDragon_Bat_Spider_Salamander_SpiderCave_1_4",
+    "Salamander_Spider_Bat_BabyDragon_BatCave_1_4",
+    "Salamander_BabyDragon_Spider_Bat_-1_4",
+    "BabyDragon_Bat_Salamander_Bat_-1_4",
+    "BabyDragon_Spider_Salamander_Bat_-1_4",
+    "Bat_Bat_BabyDragon_Salamander_SalamanderCave_0_4"
+  ],
+  "dragons": [
+    "Green_0_-1",
+    "Blue_2_-1",
+    "Orange_3_-1",
+    "White_7_-1"
+  ],
+  "flippedChitCards": [
+    1
+  ],
+  "currentDragon": 1,
+  "dragonCaves": {
+    "Blue": 2,
+    "Green": 0,
+    "Orange": 3,
+    "White": 7
+  }
+}
